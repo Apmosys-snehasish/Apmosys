@@ -1,5 +1,7 @@
 Manifest-Version: 1.0
 Built-By: apmosys
 Build-Jdk: 17.0.5
+Class-Path: lib/servlet-api-2.5.jar lib/jsp-api-2.2.jar
+Main-Class: com.mypackage.MyClass
 Created-By: Maven Integration for Eclipse
 
